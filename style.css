@@ -1,0 +1,165 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	
+}
+
+.row {
+
+}
+
+.logo {
+	margin:0;
+
+	padding:60px 0px 60px 60px;
+	font-size: 6em;
+}
+
+.logo a:link {
+	color: black;
+	text-decoration: none;
+}
+
+.logo a:visited {
+	color: black;
+	text-decoration: none;
+}
+
+.logo a:hover {
+	color: black;
+	text-decoration: none;
+}
+
+.header-top {
+	background: silver;
+	/*#A3A9B8*/
+	/*5F6C88*/
+}
+.sec-navigation {
+	float: right;
+}
+
+.sec-navigation li {
+	display: inline-block;
+}
+
+.sec-navigation a {
+	margin-right:20px;
+
+
+}
+
+.main-navigation {
+	float: right;
+	margin-top: 94px;
+	margin-right:60px;
+	padding:0;
+
+}
+
+.main-navigation li {
+	display: inline-block;
+	font-size: 3em;
+	margin:0;
+
+	padding:0;
+
+}
+
+.main-navigation a {
+	
+	margin-left:30px;
+	margin-bottom:0;
+
+}
+
+.main-navigation a:link {
+	text-decoration: none;
+	color: black;
+}
+
+.main-navigation a:visited {
+	text-decoration: none;
+	color: black;
+}
+
+.main-navigation a:hover {
+	text-decoration: none;
+	color: black;
+}
+
+.main-navigation a:active {
+	text-decoration: none;
+	color: black;
+}
+
+.intro {
+	background: url(images/hotel3.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
+	min-height: 460px;
+}
+
+.main-form-column {
+	background-color:silver;
+	border: 1px solid gray;
+	margin-top:20px;
+}
+
+.main-form {
+	
+	
+}
+
+.main-form-box input {
+	width: 100%;
+	outline: none;
+	border:none;
+}
+#city {
+	
+}
+.main-form-box {
+	border: 1px solid gray;
+	width: 19%;
+	float: left;
+	padding: 10px 10px 10px 10px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-left: 1%;
+	background-color: white;
+}
+
+.main-form-box-last {
+	border: 1px solid gray;
+	width: 18%;
+	float: left;
+	padding: 10px 10px 10px 10px;
+	margin-top: 10px;
+	margin-right: 1%;
+	margin-left: 1%;
+	margin-bottom: 10px;
+	background-color: #362C44;
+	text-align: center;
+}
+
+.city-box {
+	
+}
+
+.city-image {
+
+	min-height: 250px;
+	width: 100%;
+}
+
+.rezervation-steps {
+	border:1px solid gray;
+	padding: 5px 5px 5px 5px;
+	text-align: center;
+}
+
